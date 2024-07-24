@@ -1,6 +1,6 @@
 import mysql.connector
 import json
-from datetime import datetime
+from datetime import *
 
 class DBOperation():
 
